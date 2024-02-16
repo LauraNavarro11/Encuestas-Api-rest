@@ -1,4 +1,4 @@
-# creating api for a poll and its votes
+# Creating api for a poll and its votes
 
 ## A poll contains multiple votes and many people can vote for multiple options in the poll.
 
